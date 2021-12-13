@@ -1,4 +1,4 @@
-# Torta de Frango de Liquidificador
+# Torta de Frango de Liquidificador 🐔
 
 ## Ingredientes:
 
