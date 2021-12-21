@@ -1,2 +1,2 @@
-# Dio-desafio-github
-Repositorio do desafio de projeto Git/Github Bootcamp MRV
+# Dio-desafio-Bootcamp MRV
+Repositorio dedicado ao bootcamp MRV, todos os projetos do bootcamp estarão nesse repositorio.
