@@ -1,2 +1,4 @@
-# Dio-desafio-github
-Repositorio do desafio de projeto Git/Github Bootcamp MRV
+# Contador
+Um dos primeiros programas meu utilizando JavaScript.
+
+* Possui uma função simples de incrementar ou decrementar a variavél, por meio de botões. 
