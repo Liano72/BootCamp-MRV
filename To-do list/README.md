@@ -1,2 +1,2 @@
-# Dio-desafio-github
-Repositorio do desafio de projeto Git/Github Bootcamp MRV
+# Lista de nomes
+Finelizei o codigo, porém está dando um erro de tipo de dado. tirei um print.
