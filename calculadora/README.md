@@ -1,2 +1,2 @@
-# Dio-desafio-github
-Repositorio do desafio de projeto Git/Github Bootcamp MRV
+## Calculadora simples 
+Repositorio do projeto da calculadora simples com funções básicas de adição, subtração, multiplicação e etc.
