@@ -1,4 +1,4 @@
 # Contador
-Um dos primeiros programas meu utilizando JavaScript.
 
-* Possui uma função simples de incrementar ou decrementar a variavél, por meio de botões. 
+  * Este repositório contém um progrma simples que ultiliza a incrementação e decrementação por botões.
+  * CSS básico.
