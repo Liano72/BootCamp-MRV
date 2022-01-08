@@ -1,7 +1,9 @@
 function substituindoNumeros (array) {
     
-    //Verifica se existe um array, verifica se ele está vazio.
-    if(!array) return "Array inexistente";
+    //Verifica se existe um array.
+    if(!array) return "Isso não é um array";
+    
+    //Verifica se ele está vazio.
     if(!array.length) return "Array vazio!";
     
     //Verifica se os elementos do array são par ou impar
