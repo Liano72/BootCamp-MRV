@@ -1,2 +1,5 @@
-# O Resgate
-- o jogo tem a tematica de fazer o jogador salvar o numero maximo de soldados, evitando que os soldados sejam atingidos ou que o jogador seja atingido pelos inimigos.
+# O resgate
+- O jogo tem como foco fazer com que o jogador salvar o máximo de soldados, evitando que os soldados sejam atingidos pelos inimigos.
+- para cada helicóptero inimigo eliminado, você recebe 100 pontos.
+- para cada caminhão inimigo eliminado, você recebe 50 pontos.
+- o jogo soma quantos soldados foram salvos e quantos foram perdidos.
